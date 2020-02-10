@@ -1,0 +1,24 @@
+[33mcommit a8b7656d895f625e0e4eb48e65ddfcad68b270f3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nestor Sotelo <contact@proyectaconsultora.com>
+Date:   Mon Feb 10 17:27:13 2020 -0300
+
+    agregamos el cargo de la persona
+    
+    la persona es Freddy
+
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mindex 05a59ef..75cb178 100644[m
+[1m--- a/historia.txt[m
+[1m+++ b/historia.txt[m
+[36m@@ -1,5 +1,7 @@[m
+ Esta es la historia de Nestor Sotelo[m
+[31m- Nestor Sotelo 4 años[m
+[32m+[m[32m Nestor Sotelo 34 años[m
+ [m
+ [m
+[31m- hoy hablaremos de su historia.[m
+\ No newline at end of file[m
+[32m+[m[32m hoy hablaremos de su historia.[m
+[32m+[m
+[32m+[m[32m es un gordo ñlaksjjfklajsdf[m
+\ No newline at end of file[m
